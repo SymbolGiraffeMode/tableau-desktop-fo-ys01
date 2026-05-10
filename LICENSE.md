@@ -1,4 +1,4 @@
-
+advanced Tableau Desktop for macOS Extension | template-library + interactive-dashboards offers the most advanced Tableau Desktop for macOS extension, with template-library and
 
 
 
